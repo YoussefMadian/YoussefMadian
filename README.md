@@ -81,7 +81,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
   <img width="12" />
   <img src=".github/workflows/icons8-microsoft-power-automate-2020-100.png" height="40" alt="vscode logo"  />
   <img width="12" />
-    <img src=".github/workflows/icons8-microsoft-power-automate-2020-100.png" height="40" alt="vscode logo"  />
+    <img src=".github/workflows/microsoft-sharepoint.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
 
