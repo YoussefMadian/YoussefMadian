@@ -39,9 +39,10 @@
 
 <div align="left">
   
-I’m a Data Analyst passionate about turning raw data into actionable insights.
-Skilled in data cleaning, visualization, and statistical analysis, I transform complex datasets into clear and impactful stories that support data-driven decisions.
-Focused on EDA, dashboard creation, and data modeling to uncover valuable business insights and drive smarter solutions. 
+IT Infrastructure & Systems Engineer with 2 years of hands-on experience in enterprise IT operations, systems
+administration, and infrastructure support. Strong experience in Windows Server, Active Directory, VPNs, VMware
+ESXi, SCCM, and Kaspersky Security Center, supporting 1500+ users in production environments.
+Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for AWS Cloud Practitioner.
   
   -  **Currently working on:** Founder & Owner of [NEXA](https://www.facebook.com/share/1BNVftURix/)   
   -  **Currently learning:** Data Analytics 
