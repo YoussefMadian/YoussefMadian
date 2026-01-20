@@ -44,10 +44,9 @@ administration, and infrastructure support. Strong experience in Windows Server,
 ESXi, SCCM, and Kaspersky Security Center, supporting 1500+ users in production environments.
 Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for AWS Cloud Practitioner.
   
-  -  **Currently working on:** Founder & Owner of [NEXA](https://www.facebook.com/share/1BNVftURix/)   
-  -  **Currently learning:** Data Analytics 
-  -  **Open to:** Data Analysis, Data Engineering  
-  -  **Reach me at:** mohamedmadian2004@gmail.com
+  -  **Currently working on:** IT Infrastructure Engineer @Nile Sugar
+  -  **Currently learning:** AWS Cloud Practitioner
+  -  **Reach me at:** youssefmadian10@gmail.com
 </div>
 
 ---
