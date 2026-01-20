@@ -77,7 +77,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 
 ### Microsoft Power Platform
 <div align="left">
-  <img src=".github/workflows/pngegg.png" height="40" alt="vscode logo"  />
+  <img src=".github/workflows/icons8-microsoft-power-apps-100.png" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
 
