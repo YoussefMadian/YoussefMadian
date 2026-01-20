@@ -55,13 +55,10 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 
 ### Networking
 <div align="left">
-   ![CCNA](https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-Microsoft-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu%20Server-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-Virtualization-607078?style=flat-square&logo=vmware&logoColor=white)
+
 </div>
 
-### Visualization
+### Microsoft Systems Administration
 <div align="left">
     <img src="https://cdn-icons-png.flaticon.com/512/15465/15465638.png" height="40" alt="tool logo" />
   <img width="12" />
@@ -72,15 +69,21 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 
   </div>
   
-### Tools & Technologies
+### Linux Administration
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40" alt="GitHub logo" />
+</div>
+
+### Microsoft Power Platform
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/notion.svg" height="40" alt="Notion logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/diagramsdotnet.svg" height="40" alt="Draw.io (diagrams.net) logo" />
+</div>
+
+### Virtualization
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
  
