@@ -64,7 +64,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
   <img width="12" />
   <img src=".github/workflows/mcsa-logo.webp" height="40" alt="Power BI logo" />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
+  <img src=".github/workflows/Microsoft-365.svg" height="40" alt="tableau logo" />
   <img width="12" />
 
   </div>
