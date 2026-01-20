@@ -44,7 +44,7 @@ administration, and infrastructure support. Strong experience in Windows Server,
 ESXi, SCCM, and Kaspersky Security Center, supporting 1500+ users in production environments.
 Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for AWS Cloud Practitioner.
   
-  -  **Currently working on:** IT Infrastructure Engineer @Nile Sugar
+  -  **Currently working on:** Nile Sugar
   -  **Currently learning:** AWS Cloud Practitioner
   -  **Reach me at:** youssefmadian10@gmail.com
 </div>
