@@ -51,9 +51,9 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Infrastructure & Systems Stack
 
-### Coding
+### Networking
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
