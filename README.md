@@ -83,7 +83,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 
 ### Virtualization
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src=".github/workflows/vmware-7.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
  
