@@ -55,42 +55,42 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 
 ### Networking
 <div align="left">
- <img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="tool logo" />
+ <img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
 <img width="12" />
 </div>
 
 ### Microsoft Systems Administration
 <div align="left">
-  <img src=".github/workflows/windows-server-2.svg" height="40" alt="tool logo" />
+  <img src=".github/workflows/windows-server-2.svg" height="40" alt="windows-server" />
   <img width="12" />
-  <img src=".github/workflows/mcsa-logo.webp" height="50" alt="Power BI logo" />
+  <img src=".github/workflows/mcsa-logo.webp" height="40" alt="mcsa" />
   <img width="12" />
-  <img src=".github/workflows/Microsoft-365.svg" height="40" alt="tableau logo" />
+  <img src=".github/workflows/Microsoft-365.svg" height="40" alt="Microsoft-365" />
   <img width="12" />
 
   </div>
   
 ### Linux Administration
 <div align="left">
-  <img src=".github/workflows/ubuntu-4.svg" height="40" alt="vscode logo"  />
+  <img src=".github/workflows/ubuntu-4.svg" height="40" alt="ubuntu"  />
   <img width="12" />
 </div>
 
 ### Microsoft Power Platform
 <div align="left">
-  <img src=".github/workflows/icons8-microsoft-power-apps-100.png" height="40" alt="vscode logo"  />
+  <img src=".github/workflows/icons8-microsoft-power-apps-100.png" height="40" alt="power-apps"  />
   <img width="12" />
-  <img src=".github/workflows/icons8-microsoft-power-automate-2020-100.png" height="40" alt="vscode logo"  />
+  <img src=".github/workflows/icons8-microsoft-power-automate-2020-100.png" height="40" alt="power-automate"  />
   <img width="12" />
-  <img src=".github/workflows/microsoft-sharepoint.svg" height="40" alt="vscode logo"  />
+  <img src=".github/workflows/microsoft-sharepoint.svg" height="40" alt="sharepoint"  />
   <img width="12" />
 </div>
 
 ### Virtualization
 <div align="left">
-  <img src=".github/workflows/vmware-7.svg" height="40" alt="vscode logo"  />
+  <img src=".github/workflows/vmware-7.svg" height="40" alt="vmware workstation"  />
   <img width="12" />
-  <img src=".github/workflows/pngegg.png" height="40" alt="vscode logo"  />
+  <img src=".github/workflows/pngegg.png" height="40" alt="vmware esxi"  />
   <img width="12" />
 </div>
  
