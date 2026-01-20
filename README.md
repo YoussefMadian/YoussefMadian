@@ -62,7 +62,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 <div align="left">
     <img src=".github/workflows/windows-server-2.svg" height="40" alt="tool logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
+  <img src=".github/workflows/mcsa-logo.webp" height="40" alt="Power BI logo" />
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
   <img width="12" />
@@ -81,7 +81,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
   <img width="12" />
   <img src=".github/workflows/icons8-microsoft-power-automate-2020-100.png" height="40" alt="vscode logo"  />
   <img width="12" />
-    <img src=".github/workflows/microsoft-sharepoint.svg" height="40" alt="vscode logo"  />
+  <img src=".github/workflows/microsoft-sharepoint.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
 
