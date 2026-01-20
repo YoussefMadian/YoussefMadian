@@ -2,8 +2,8 @@
 <h1 align="center">Hello, I'm Youssef Madian</h1>
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E9BD4&width=435&center=true&vCenter=true&lines=Data+Analyst"
-    alt="Data Analyst Typing Animation" />
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E9BD4&width=435&center=true&vCenter=true&lines=IT+Infrastructure+Engineer"
+    alt="IT Infrastructure Engineer Typing Animation" />
 </p>
 
 <br>
