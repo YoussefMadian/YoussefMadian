@@ -55,12 +55,13 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 
 ### Networking
 <div align="left">
-
+ <img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="tool logo" />
+<img width="12" />
 </div>
 
 ### Microsoft Systems Administration
 <div align="left">
-    <img src=".github/workflows/windows-server-2.svg" height="40" alt="tool logo" />
+  <img src=".github/workflows/windows-server-2.svg" height="40" alt="tool logo" />
   <img width="12" />
   <img src=".github/workflows/mcsa-logo.webp" height="40" alt="Power BI logo" />
   <img width="12" />
