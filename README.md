@@ -60,7 +60,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 
 ### Microsoft Systems Administration
 <div align="left">
-    <img src="https://cdn-icons-png.flaticon.com/512/15465/15465638.png" height="40" alt="tool logo" />
+    <img src=".github/workflows/windows-server-2.svg" height="40" alt="tool logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
   <img width="12" />
