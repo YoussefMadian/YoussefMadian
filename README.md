@@ -63,7 +63,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 <div align="left">
   <img src=".github/workflows/windows-server-2.svg" height="40" alt="tool logo" />
   <img width="12" />
-  <img src=".github/workflows/mcsa.png" height="40" alt="Power BI logo" />
+  <img src=".github/workflows/mcsa-logo.webp" height="50" alt="Power BI logo" />
   <img width="12" />
   <img src=".github/workflows/Microsoft-365.svg" height="40" alt="tableau logo" />
   <img width="12" />
