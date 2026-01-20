@@ -71,13 +71,17 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
   
 ### Linux Administration
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src=".github/workflows/icons8-microsoft-power-automate-2020-100.png" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
 
 ### Microsoft Power Platform
 <div align="left">
   <img src=".github/workflows/icons8-microsoft-power-apps-100.png" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src=".github/workflows/icons8-microsoft-power-automate-2020-100.png" height="40" alt="vscode logo"  />
+  <img width="12" />
+    <img src=".github/workflows/icons8-microsoft-power-automate-2020-100.png" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
 
