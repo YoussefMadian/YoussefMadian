@@ -71,7 +71,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
   
 ### Linux Administration
 <div align="left">
-  <img src=".github/workflows/icons8-microsoft-power-automate-2020-100.png" height="40" alt="vscode logo"  />
+  <img src=".github/workflows/ubuntu-4.svg" height="40" alt="vscode logo"  />
   <img width="12" />
 </div>
 
