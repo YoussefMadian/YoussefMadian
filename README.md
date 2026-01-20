@@ -55,7 +55,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 
 ### Networking
 <div align="left">
- <img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
+ img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
 <img width="12" />
 </div>
 
@@ -98,15 +98,17 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedMadian7&theme=algolia&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="stats graph" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=MohamedMadian7&theme=algolia&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMadian7&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefMadian&theme=algolia&hide_border=false&include_all_commits=false&count_private=false"
+       height="150"
+       alt="stats graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=YoussefMadian&theme=algolia&hide_border=false"
+       height="150"
+       alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMadian&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+       height="150"
+       alt="languages graph" />
 </div>
+
 <br><br>
 
-<!-- <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" /> -->
-<picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedMadian7/MohamedMadian7/output/pacman-contribution-graph-dark.svg">
-     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohamedMadian7/MohamedMadian7/output/pacman-contribution-graph.svg">
-     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MohamedMadian7/MohamedMadian7/output/pacman-contribution-graph.svg">
-   </picture>
+
