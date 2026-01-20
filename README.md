@@ -11,7 +11,7 @@
 
 
 
-<h3 align="center">  Excel | SQL | Python | R | Power Bi | Tableau </h3>
+<h3 align="center">  CCNA | MCSA | SCCM | Kaspersky | Power Platform | Linux Admin 1 </h3>
 <div align="center">
   
 [![Profile Views](https://komarev.com/ghpvc/?username=YoussefMadian&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/YoussefMadian)
