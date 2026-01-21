@@ -57,6 +57,14 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 <div align="left">
 <img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
 <img width="12" />
+<img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
+<img width="12" /> 
+<img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
+<img width="12" />
+<img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
+<img width="12" /> 
+<img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
+<img width="12" />  
 </div>
 
 ### Microsoft Systems Administration
