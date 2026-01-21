@@ -61,7 +61,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 <img width="12" /> 
 <img src=".github/workflows/Cisco-Packet-Tracer.webp" height="40" alt="Packet-Tracer" />
 <img width="12" />
-<img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
+<img src=".github/workflows/gns3.png" height="40" alt="gns3" />
 <img width="12" /> 
 <img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
 <img width="12" />  
