@@ -63,7 +63,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 <img width="12" />
 <img src=".github/workflows/gns3.png" height="40" alt="gns3" />
 <img width="12" /> 
-<img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
+<img src=".github/workflows/pnetlab.png" height="40" alt="pnetlab" />
 <img width="12" />  
 </div>
 
