@@ -78,11 +78,6 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 
   </div>
   
-### Linux Administration
-<div align="left">
-  <img src=".github/workflows/ubuntu-4.svg" height="40" alt="ubuntu"  />
-  <img width="12" />
-</div>
 
 ### Microsoft Power Platform
 <div align="left">
@@ -94,11 +89,25 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
   <img width="12" />
 </div>
 
+### Endpoint & Systems Management
+<div align="left">
+  <img src=".github/workflows/ubuntu-4.svg" height="40" alt="ubuntu"  />
+  <img width="12" />
+  <img src=".github/workflows/ubuntu-4.svg" height="40" alt="ubuntu"  />
+  <img width="12" />
+</div>
+
 ### Virtualization
 <div align="left">
   <img src=".github/workflows/vmware-7.svg" height="40" alt="vmware workstation"  />
   <img width="12" />
   <img src=".github/workflows/pngegg.png" height="40" alt="vmware esxi"  />
+  <img width="12" />
+</div>
+
+### Linux Administration
+<div align="left">
+  <img src=".github/workflows/ubuntu-4.svg" height="40" alt="ubuntu"  />
   <img width="12" />
 </div>
  
