@@ -57,7 +57,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 <div align="left">
 <img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
 <img width="12" />
-<img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
+<img src=".github/workflows/wireshark.webp" height="40" alt="wireshare" />
 <img width="12" /> 
 <img src=".github/workflows/cisco-ccna-logo.png" height="40" alt="ccna" />
 <img width="12" />
