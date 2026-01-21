@@ -91,9 +91,9 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
 
 ### Endpoint & Systems Management
 <div align="left">
-  <img src=".github/workflows/ubuntu-4.svg" height="40" alt="ubuntu"  />
+  <img src=".github/workflows/sccm.png" height="40" alt="sccm"  />
   <img width="12" />
-  <img src=".github/workflows/ubuntu-4.svg" height="40" alt="ubuntu"  />
+  <img src=".github/workflows/kaspersky.png" height="40" alt="kaspersky"  />
   <img width="12" />
 </div>
 
