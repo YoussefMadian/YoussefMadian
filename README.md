@@ -121,9 +121,6 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, preparing for
   <img src="https://nirzak-streak-stats.vercel.app/?user=YoussefMadian&theme=algolia&hide_border=false"
        height="150"
        alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefMadian&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-       height="150"
-       alt="languages graph" />
 </div>
 
 <br><br>
