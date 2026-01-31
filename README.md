@@ -17,7 +17,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=YoussefMadian&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/YoussefMadian)
 [![GitHub Followers](https://img.shields.io/github/followers/YoussefMadian?style=social)](https://github.com/YoussefMadian)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-madian/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:youssefmadian10@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat&logo=microsoft-outlook)](mailto:youssef-madian@outlook.com)
 [![Static Badge](https://img.shields.io/badge/Linktree-Profile-brightgreen)](https://linktr.ee/YoussefMadian)
 
 
@@ -46,7 +46,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, Studying AWS 
   
   -  **Currently working on:** Nile Sugar
   -  **Currently learning:** AWS Cloud Practitioner
-  -  **Reach me at:** youssefmadian10@gmail.com
+  -  **Reach me at:** youssef-madian@Outlook.com
 </div>
 
 ---
