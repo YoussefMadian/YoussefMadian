@@ -46,7 +46,7 @@ Currently focused on growing into Cloud and Hybrid Infrastructure, Studying AWS 
   
   -  **Currently working on:** Nile Sugar
   -  **Currently learning:** AWS Cloud Practitioner
-  -  **Reach me at:** youssef-madian@Outlook.com
+  -  **Reach me at:** youssef-madian@outlook.com
 </div>
 
 ---
