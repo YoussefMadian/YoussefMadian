@@ -41,7 +41,7 @@
   
 IT Infrastructure & Systems Engineer with 2 years of hands-on experience in enterprise IT operations, systems
 administration, and infrastructure support. Strong experience in Windows Server, Active Directory, VPNs, VMware
-ESXi, SCCM, and Kaspersky Security Center, supporting 1500+ users in production environments.
+ESXi, SCCM, and Kaspersky Security Center, supporting 500+ users in production environments.
 Currently focused on growing into Cloud and Hybrid Infrastructure, Studying AWS Cloud Practitioner.
   
   -  **Currently working on:** Nile Sugar
