@@ -39,13 +39,9 @@
 
 <div align="left">
   
-IT Infrastructure & Systems Engineer with 2 years of hands-on experience in enterprise IT operations, systems
-administration, and infrastructure support. Strong experience in Windows Server, Active Directory, VPNs, VMware
-ESXi, SCCM, and Kaspersky Security Center, supporting 500+ users in production environments.
-Currently focused on growing into Cloud and Hybrid Infrastructure, Studying AWS Cloud Practitioner.
+IT Infrastructure & Systems Engineer with 3 years of hands-on experience in enterprise IT operations, Microsoft 365 administration, systems administration, and infrastructure support. Experienced in Windows Server, Active Directory, Microsoft 365, Microsoft Power Platform, VMware ESXi, SCCM, VPNs, and Kaspersky Security Center, supporting 700+ users in production environments. Passionate about building secure, scalable, and collaborative digital workplaces by integrating infrastructure with Microsoft 365 solutions, including SharePoint, Power Apps, Power Automate, and business process automation. Currently expanding my expertise in Cloud and Hybrid Infrastructure.
   
   -  **Currently working on:** Nile Sugar
-  -  **Currently learning:** AWS Cloud Practitioner
   -  **Reach me at:** youssef-madian@outlook.com
 </div>
 
